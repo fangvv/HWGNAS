@@ -28,8 +28,9 @@ Check 代码说明.docx for more details.
 	}
 	
 ## Acknowledgements
-To implement this repo, we refer to the following code:
-[EGNAS](https://github.com/tjdeng/EGNAS) 
+To implement this repo, we refer to the following code: [EGNAS](https://github.com/tjdeng/EGNAS).
+
+In particular, we would like to express our gratitude to Dr. [Ao Zhou](https://scholar.google.com/citations?user=czrX_cYAAAAJ) for his guidance and advice on our research.
 
 ## Contact
 
