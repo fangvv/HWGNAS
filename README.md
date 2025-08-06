@@ -12,6 +12,8 @@ This work will be published by IEEE Transactions on Network Science and Engineer
 
 PyTorch
 
+Check 代码说明.docx for more details.
+
 ## Citation
     @ARTICLE{11077755,
 		author={Li, Xiuwen and Fang, Weiwei and Qian, Liang and Li, Haoyuan and Chen, Yanming and Xiong, Neal N.},
@@ -24,6 +26,10 @@ PyTorch
 		keywords={Computer architecture;Accuracy;Graph neural networks;Training;Hardware;Optimization;Computational efficiency;Search problems;Predictive models;Neural architecture search;Hardware-aware;Graph Neural Network;Neural Architecture Search;Reinforcement Learning;Edge devices},
 		doi={10.1109/TNSE.2025.3587645}
 	}
+	
+## Acknowledgements
+To implement this repo, we refer to the following code:
+[EGNAS](https://github.com/tjdeng/EGNAS) 
 
 ## Contact
 
