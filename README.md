@@ -8,7 +8,7 @@ This is the source code for our paper: **Automated Design for Hardware-aware Gra
 
 > 图神经网络（GNN）在处理非欧几里得领域数据方面展现出显著优势。随着神经架构搜索（NAS）技术在卷积神经网络和循环神经网络设计中的成功应用，该技术也被延伸至GNN架构设计领域，以降低设计任务专用模型的复杂度。然而现有图神经网络架构搜索方法往往忽视硬件相关指标，这对于在资源受限的边缘设备上部署GNN至关重要。本文提出HWGNAS——一种基于强化学习的创新框架，可同步优化GNN的硬件相关延迟与硬件无关精度。该框架的搜索空间建立在现有图神经网络架构搜索方法基础之上，通过精心设计的选项与约束条件专门优化推理性能。为提升搜索效率，我们构建了两个代理模型，分别用于有效预测候选GNN架构的精度与延迟。通过对代表性边缘设备的大量评估，实验结果表明：HWGNAS在模型尺寸（最高达99.5%）和推理速度（最高提升73.4倍）方面显著优于基线方法，同时保持具有竞争力的准确率。此外，相较于现有图神经网络架构搜索方案，HWGNAS将搜索时间减少了16.5%至75.3%。
 
-This work will be published by IEEE Transactions on Network Science and Engineering. Click [here](https://doi.org/10.1109/TNSE.2025.3587645) for our paper.
+This work has been published by IEEE Transactions on Network Science and Engineering (vol. 13, pp. 828-840, 2026). Click [here](https://doi.org/10.1109/TNSE.2025.3587645) for our paper.
 
 ## Required software
 
@@ -21,10 +21,9 @@ Check 代码说明.docx for more details.
 		author={Li, Xiuwen and Fang, Weiwei and Qian, Liang and Li, Haoyuan and Chen, Yanming and Xiong, Neal N.},
 		journal={IEEE Transactions on Network Science and Engineering}, 
 		title={Automated Design for Hardware-aware Graph Neural Networks on Edge Devices}, 
-		year={2025},
-		volume={},
-		number={},
-		pages={1-14},
+		year={2026},
+		volume={13},
+		pages={828-840},
 		keywords={Computer architecture;Accuracy;Graph neural networks;Training;Hardware;Optimization;Computational efficiency;Search problems;Predictive models;Neural architecture search;Hardware-aware;Graph Neural Network;Neural Architecture Search;Reinforcement Learning;Edge devices},
 		doi={10.1109/TNSE.2025.3587645}
 	}
